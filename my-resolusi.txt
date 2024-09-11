@@ -3,3 +3,4 @@ learn HTML
 learn CSS
 learn Java scrpt
 learn PHP
+lern SQL
