@@ -1,6 +1,8 @@
 my resolusi
 learn HTML
 learn CSS
+ *margin
+ *box tools
 learn Java scrpt
 learn PHP
 lern SQL
