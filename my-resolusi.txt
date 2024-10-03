@@ -4,3 +4,4 @@ learn CSS
 learn Java scrpt
 learn PHP
 lern SQL
+learn rubby
