@@ -1,8 +1,11 @@
 my resolusi
 learn HTML
 learn CSS
+ *box margin
+ *pading
 learn Java scrpt
 learn PHP
 lern SQL
 learn rubby
 learn syntax
+learn pyhton
